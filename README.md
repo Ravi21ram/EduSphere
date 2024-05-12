@@ -1,2 +1,1 @@
-# EduSphere
 ![Uploading image.png…]()

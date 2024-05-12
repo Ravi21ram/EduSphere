@@ -17,7 +17,7 @@ To get started with the SDMS project, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```
-   git clone <[repository-url](https://github.com/Ravi21ram/EduSphere)>
+   git clone https://github.com/Ravi21ram/EduSphere
    ```
 
 2. **Setup Database**: Set up your SQL database (e.g., MySQL) and configure the database connection details in the application properties file.

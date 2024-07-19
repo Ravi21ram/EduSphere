@@ -12,7 +12,7 @@ Welcome to the EduSphere repository! This project is designed to serve as a comp
 - **High Performance**: Utilize optimization techniques to ensure high performance and scalability.
 - **Documentation**: Clear documentation for API guidelines and system architecture.
 
-## Getting Started
+## Getting Started 
 To get started with the EduSphere project, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:

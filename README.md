@@ -1,7 +1,7 @@
 **EduSphere**
 
 ## Overview
-Welcome to the EduSphere repository! This project is designed to serve as a comprehensive system for managing student information efficiently. Whether you're a student, educator, or administrator, EduSphere provides a user-friendly interface for storing, updating, and retrieving student data.
+Welcome to the EduSphere repository! This project is designed to serve as a comprehensive system for managing student information efficiently. Whether you're a student, educator, or administrator, EduSphere provides a user-friendly interface for storing, updating, and retrieving student data. 
 
 ## Features
 - **User-Friendly Interface**: Intuitive design for easy navigation and data management.
